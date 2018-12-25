@@ -1,7 +1,7 @@
 # smh
 smh, short for Shake My Head, is a desktop game created in PyGame and OpenCV with the objective to avoid hitting enemies by moving your head from side to side while bobbing to the song in the background. The enemies are procedurally generated so that the enemies appear according to the music and your head moves according to the beat.
 
-This game was designed for [Hack112 F17](https://www.cs.cmu.edu/~112/), one Carnegie Mellon University's largest hackathons, along with team members [Komal Dewan](mailto:kdewan@andrew.cmu.edu), [Kusha Maharshi](kmaharsh@andrew.cmu.edu), and [Sebastien La Duca](mailto:sladuca@andrew.cmu.edu).
+This game was designed for [Hack112 F17](https://www.cs.cmu.edu/~112/), one Carnegie Mellon University's largest hackathons, along with team members [Komal Dewan](mailto:kdewan@andrew.cmu.edu), [Kusha Maharshi](mailto:kmaharsh@andrew.cmu.edu), and [Sebastien La Duca](mailto:sladuca@andrew.cmu.edu).
 
 ### Dependancies
 * `pygame`
