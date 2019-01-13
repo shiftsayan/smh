@@ -15,6 +15,6 @@ This game was designed for [Hack112 F17](https://www.cs.cmu.edu/~112/), one Carn
 ### Installation
 1. Add a webcam picture of the player(s) into `./players/`.
 2. To add a new song, add its `.wav` file to `./music/` and run `processor.py` replacing the song name on line 21.
-3. To play with the new song, run `.game.py` replacing the song name on line 21.
+3. To play with the new song, run `game.py` replacing the song name on line 21.
 
 **NOTE:** The process versions of songs Shape of You by Ed Sheeran and Spectre by Alan Walker are included in `./json/` but not the actual `.wav` file.
